@@ -20,7 +20,6 @@
     <module>../cedar-archetype-exporter</module>
     <module>../cedar-archetype-instance-reader</module>
     <module>../cedar-archetype-instance-writer</module>
-    <module>../cedar-artifact-library</module>
     <module>../cedar-cadsr-tools</module>
   </modules>
 
