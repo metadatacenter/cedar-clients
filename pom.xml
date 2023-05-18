@@ -4,7 +4,7 @@
 
   <groupId>org.metadatacenter</groupId>
   <artifactId>cedar-clients</artifactId>
-  <version>2.6.24-SNAPSHOT</version>
+  <version>2.6.25</version>
   <packaging>pom</packaging>
 
   <name>CEDAR Clients</name>
@@ -20,8 +20,6 @@
     <module>../cedar-archetype-exporter</module>
     <module>../cedar-archetype-instance-reader</module>
     <module>../cedar-archetype-instance-writer</module>
-    <module>../cedar-artifact-tools</module>
-    <module>../cedar-cadsr-tools</module>
   </modules>
 
 </project>
